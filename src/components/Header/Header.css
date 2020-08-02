@@ -1,0 +1,52 @@
+.navbar {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background-color: #fff;
+  padding: 15px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: 'Source Sans Pro', Sans-Serif;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  color: gray;
+  margin-bottom: 10px;
+}
+
+.navbar .navbar_left {
+  display: flex;
+  align-items: center;
+}
+
+.navbar_left .burger_icon {
+  margin-right: 10px;
+}
+
+.navbar .navbar_middle {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex: .9;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+}
+
+.navbar .navbar_middle .navbar_searchInput {
+  flex: .95;
+  border: none;
+  border-right: 1px solid lightgray;
+  padding: 5px;
+  font-family: 'Montserrat', Sans-Serif;
+}
+
+.navbar_searchInput:focus {
+  outline: none;
+}
+
+.navbar .navbar_middle .navbar_searchIcon {
+  flex: 0.2;
+}
+
+.navbar_right {
+  font-size: 24px;
+}
