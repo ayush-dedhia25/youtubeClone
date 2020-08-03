@@ -33,7 +33,7 @@ function App() {
   
   return (
     <div className="app">
-      <Header callBack={toggleBar} getQuery={getQueryString} />
+      <Header getQuery={getQueryString} />
       
       <div className="videos">
         {youtubeData.length !== 0 ? (youtubeData.map(video => (
