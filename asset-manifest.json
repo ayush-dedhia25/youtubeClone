@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/youtubeClone/static/css/main.6aa83a59.chunk.css",
-    "main.js": "/youtubeClone/static/js/main.81302c26.chunk.js",
-    "main.js.map": "/youtubeClone/static/js/main.81302c26.chunk.js.map",
-    "runtime-main.js": "/youtubeClone/static/js/runtime-main.a30208fc.js",
-    "runtime-main.js.map": "/youtubeClone/static/js/runtime-main.a30208fc.js.map",
-    "static/js/2.da38b7ac.chunk.js": "/youtubeClone/static/js/2.da38b7ac.chunk.js",
-    "static/js/2.da38b7ac.chunk.js.map": "/youtubeClone/static/js/2.da38b7ac.chunk.js.map",
+    "main.js": "/youtubeClone/static/js/main.92eda101.chunk.js",
+    "main.js.map": "/youtubeClone/static/js/main.92eda101.chunk.js.map",
+    "runtime-main.js": "/youtubeClone/static/js/runtime-main.03c4e7e7.js",
+    "runtime-main.js.map": "/youtubeClone/static/js/runtime-main.03c4e7e7.js.map",
+    "static/js/2.98876139.chunk.js": "/youtubeClone/static/js/2.98876139.chunk.js",
+    "static/js/2.98876139.chunk.js.map": "/youtubeClone/static/js/2.98876139.chunk.js.map",
     "index.html": "/youtubeClone/index.html",
-    "precache-manifest.017e8a4261b69cebb7be0765a1f716b2.js": "/youtubeClone/precache-manifest.017e8a4261b69cebb7be0765a1f716b2.js",
+    "precache-manifest.dbc79cfcee01b7f3db48f6d6625e910d.js": "/youtubeClone/precache-manifest.dbc79cfcee01b7f3db48f6d6625e910d.js",
     "service-worker.js": "/youtubeClone/service-worker.js",
     "static/css/main.6aa83a59.chunk.css.map": "/youtubeClone/static/css/main.6aa83a59.chunk.css.map",
-    "static/js/2.da38b7ac.chunk.js.LICENSE.txt": "/youtubeClone/static/js/2.da38b7ac.chunk.js.LICENSE.txt"
+    "static/js/2.98876139.chunk.js.LICENSE.txt": "/youtubeClone/static/js/2.98876139.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a30208fc.js",
-    "static/js/2.da38b7ac.chunk.js",
+    "static/js/runtime-main.03c4e7e7.js",
+    "static/js/2.98876139.chunk.js",
     "static/css/main.6aa83a59.chunk.css",
-    "static/js/main.81302c26.chunk.js"
+    "static/js/main.92eda101.chunk.js"
   ]
 }
